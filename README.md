@@ -6,10 +6,6 @@ This repository contains Terraform files for provisioning an Amazon Elastic Kube
 
 - [Prerequisites](#prerequisites)
 - [Terraform Setup](#terraform-setup)
-- [Kubernetes Deployment](#kubernetes-deployment)
-- [Accessing Applications](#accessing-applications)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
